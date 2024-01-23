@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+---
+### I'm Kirill Vasiurin, I am a guy who loves tech and see myself as product enthoziast.
+-------
+  
+## 🧐 About
+
+- 🏄‍ Enjoy learning new about development in general and Python in particular
+- 😄 I am usually a part of hackathons as a participant. I have taken part in muiltiple and even became a winner in some of them.
+- 🔭 I am currently working at Sheremetyevo - A.S. Pushkin international airport.
+- 👯 I graduated MIPT Applied Math department
+- 🌱 I love to speak at public events and have been a speaker at many events. I really enjoy climbing and horse riding.
+- 👯 And Many More...
+
+- 💬 Ask me about anything and everything!
+- 📫 How to reach me: message me at [Telegram](https://https://t.me/k1lv1n)
+- ⚡ Fun fact: I love meeting new people and eating food!
+
+
+![k1lv1n's github stats](https://github-readme-stats.vercel.app/api?username=k1lv1n&show_icons=true)
