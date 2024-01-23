@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 👯 And Many More...
 
 - 💬 Ask me about anything and everything!
-- 📫 How to reach me: message me at [Telegram](https://https://t.me/k1lv1n)
+- 📫 How to reach me: message me at [Telegram](https://t.me/k1lv1n)
 - ⚡ Fun fact: I love meeting new people and eating food!
 
 
