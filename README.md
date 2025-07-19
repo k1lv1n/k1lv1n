@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about anything and everything!
 - 📫 How to reach me: message me at [Telegram](https://t.me/k1lv1n)
-- ⚡ Fun fact: I love meeting new people and eating food!
 
 
 ![k1lv1n's github stats](https://github-readme-stats.vercel.app/api?username=k1lv1n&show_icons=true)
